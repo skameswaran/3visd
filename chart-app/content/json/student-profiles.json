@@ -1,0 +1,128 @@
+﻿[
+        {
+            "name": "Ashirvaad Mandekhar",
+            "imageurl": "../../content/images/passport-size.jpg",
+            "Age": "22",
+            "Email": "aashirvaad@gmail.com",
+            "contact": "5569599931"
+        },
+        {
+            "name": "Shivraj Shinde",
+            "imageurl": "../../content/images/1.jpg",
+            "Age": "24",
+            "Email": "shunde@yahoo.com",
+            "contact": "7856932568"
+        },
+        {
+            "name": "Rajiv Patnayak",
+            "imageurl": "../../content/images/2.jpg",
+            "Age": "24",
+            "Email": "shunde@yahoo.com",
+            "contact": "4578787542"
+        },
+        {
+            "name": "Wan hun chi",
+            "imageurl": "../../content/images/3.jpg",
+            "Age": "24",
+            "Email": "hunchiwan@yahoo.com",
+            "contact": "2785565561"
+        },
+        {
+            "name": "Prabhu Natrajan",
+            "imageurl": "../../content/images/4.jpg",
+            "Age": "24",
+            "Email": "PrabhuN@live.com",
+            "contact": "998887787"
+        },
+        {
+            "name": "Rohini Varma",
+            "imageurl": "../../content/images/5.jpg",
+            "Age": "24",
+            "Email": "shunde@yahoo.com",
+            "contact": "8745221542"
+        },
+        {
+            "name": "Jesica Brims",
+            "imageurl": "../../content/images/6.jpg",
+            "Age": "24",
+            "Email": "shunde@yahoo.com",
+            "contact": "998887787"
+        },
+        {
+            "name": "Swetha Nagar",
+            "imageurl": "../../content/images/7.jpg",
+            "Age": "24",
+            "Email": "shunde@yahoo.com",
+            "contact": "556894755"
+        },
+        {
+            "name": "Kathiresan Azhagappan",
+            "imageurl": "../../content/images/8.jpg",
+            "Age": "24",
+            "Email": "shunde@yahoo.com",
+            "contact": "487754451"
+        },
+        {
+            "name": "Vinay Kumar",
+            "imageurl": "../../content/images/9.jpg",
+            "Age": "24",
+            "Email": "shunde@yahoo.com",
+            "contact": "4888454721"
+        },
+        {
+            "name": "Raghul Varma",
+            "imageurl": "../../content/images/10.jpg",
+            "Age": "24",
+            "Email": "shunde@yahoo.com",
+            "contact": "3555655894"
+        },
+        {
+            "name": "Ramesh Kulkarni",
+            "imageurl": "../../content/images/11.jpg",
+            "Age": "24",
+            "Email": "shunde@yahoo.com",
+            "contact": "998887787"
+        },
+        {
+            "name": "Rama Subramanian",
+            "imageurl": "../../content/images/12.jpg",
+            "Age": "24",
+            "Email": "shunde@yahoo.com",
+            "contact": "5548515213"
+        },
+        {
+            "name": "Hari Ganesan",
+            "imageurl": "../../content/images/13.jpg",
+            "Age": "24",
+            "Email": "shunde@yahoo.com",
+            "contact": "3399577845"
+        },
+        {
+            "name": "Pawan Raju",
+            "imageurl": "../../content/images/14.jpg",
+            "Age": "24",
+            "Email": "shunde@yahoo.com",
+            "contact": "998887787"
+        },
+        {
+            "name": "Mohan Ranjan",
+            "imageurl": "../../content/images/15.jpg",
+            "Age": "24",
+            "Email": "shunde@yahoo.com",
+            "contact": "228845655"
+        },
+        {
+            "name": "Katernine yester",
+            "imageurl": "../../content/images/16.jpg",
+            "Age": "24",
+            "Email": "shunde@yahoo.com",
+            "contact": "778455526"
+        },
+        {
+            "name": "Katana Jhones",
+            "imageurl": "../../content/images/17.jpg",
+            "Age": "24",
+            "Email": "shunde@yahoo.com",
+            "contact": "9965888745"
+        }
+    ]
